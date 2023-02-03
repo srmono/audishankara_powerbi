@@ -1,0 +1,19 @@
+Add 		=B1+C1
+Substract	=B2-C2
+Multiply	=B3*C3
+Divide		=B4/C4
+Sum		=SUM(B1:D4)
+Min		=min(B1:D4)
+Max		=max(B1:D4)
+Count		=COUNT(B1:H4)
+Counta		=COUNTA(B1:H4)
+Average		=AVERAGE(E10:H10)
+Median		=MEDIAN(E10:H10)
+Concatenate	=CONCAT(E12:F12)
+if		=IF(D13="power","bi","find")
+Countif		=COUNTIF(B1:D4,10)
+Vlookup		=VLOOKUP(C17,C15:D17,2,FALSE)
+Sumif		=SUMIF(E19:G20,F19,E20:G20)
+CurrentTime	=now()
+
+	https://github.com/srmono/audishankara_powerbi
